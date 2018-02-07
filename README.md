@@ -1,1 +1,1 @@
-El primer fichero del primer repositorio de Sergio Gonzalez
+Educational Git project. Creates a simple calculator in HTML and JavaScript in short steps.
